@@ -1,5 +1,5 @@
 ### 🌱 I’m currently learning Computer Vision Machine Learning 🌱
-### 👋 COmputer Vision 공부중입니다 👋   
+### 👋 Computer Vision 공부중입니다 👋   
 
 ### ✨물음표(?)에서 느낌표(!)로 바뀌는 순간을 좋아합니다:)✨
 
