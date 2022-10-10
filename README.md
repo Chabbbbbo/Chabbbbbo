@@ -14,8 +14,8 @@
 </div>
 
 ### 사용 언어
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+https://img.shields.io/badge/<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white">
+https://img.shields.io/badge/<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
