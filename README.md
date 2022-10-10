@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🤞 Nice way to meet me
+### 😎 Nice way to meet me
 <a href="https://velog.io/@cbkyeong" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:cbkyeong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkyeong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/chaaaaabbo/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
