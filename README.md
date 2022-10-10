@@ -1,15 +1,15 @@
+<div align="center">
+
 ### 🤞 Nice way to meet me
-<div>
 <a href="https://velog.io/@cbkyeong" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:cbkyeong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkyeong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/chaaaaabbo/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
 
 
 ### 🌱 I’m currently learning Computer Vision Machine Learning 🌱
 ### ✨ 물음표(?)에서 느낌표(!)로 바뀌는 순간을 좋아합니다:) ✨
 ### 🤿 파이썬을 배우며 컴퓨터의 세계로 Deeeeeep Dive 중입니다 🤿 
-
+</div>
 
 <br>
 
