@@ -1,7 +1,9 @@
 ### 🤞 Nice way to meet me
+<div>
   <a href="https://velog.io/@cbkyeong" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.instagram.com/chaaaaabbo/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:cbkyeong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cbkyeong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
 
 <div align="center">
 ### 🌱 I’m currently learning Computer Vision Machine Learning 🌱
