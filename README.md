@@ -3,7 +3,7 @@
 ### 😎 Nice way to meet me
 <a href="https://velog.io/@cbkyeong" target="_blank"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <a href="mailto:cbkyeong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChabbbbbo&count_bg=%2392ABF2&title_bg=%23669CFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### 🌱 I'm currently studying to become a Data engineer 🌱
@@ -16,7 +16,6 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chabbbbbo)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
